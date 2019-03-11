@@ -170,7 +170,7 @@ And it's gone!
 ## Conclusion
 
 You now know how to create, append and remove elements in the DOM with
-JavaScript. With this knowledge, you can become a master DOM manipulator in no time. 
+JavaScript. With this knowledge, you can become a master DOM manipulator in no time.
 
 ## Resources
 
